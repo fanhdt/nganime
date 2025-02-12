@@ -10,11 +10,9 @@
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.7",
-    "@prisma/client": "^6.3.0",
     "eslint-config-next": "^15.1.6",
     "next": "^15.1.6",
     "next-auth": "^4.24.11",
-    "prisma": "^6.3.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-youtube": "^10.1.0"
